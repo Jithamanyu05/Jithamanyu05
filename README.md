@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Jithamanyu</h1>
 <h3 align="center">A dynamic and driven Computer Science enthusiast from India, passionate about AI, Data Analytics, and frontend development. Known for creativity and a unique approach to problem-solving, bringing innovation to every project.</h3>
 
-- 🌱 I’m currently learning **I’m currently learning LLMs, AI/ML, and data analytics to build smarter and more efficient systems.**
+- 🌱 I’m currently learning **LLMs, AI/ML, and data analytics to build smarter and more efficient systems.**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
