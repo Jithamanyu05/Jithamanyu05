@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **polajithamanyu@gmail.com**
 
-- ⚡ Fun fact **I believe a great UI is like a great joke—if you have to explain it, it’s not that good!**
+- ⚡ Fun fact : **I believe a great UI is like a great joke—if you have to explain it, it’s not that good!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
